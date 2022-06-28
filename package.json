@@ -1,5 +1,12 @@
 {
   "name": "@mikeromeo/npm-test",
   "version": "1.0.0",
-  "description": "Perplex research into publishing packages"
+  "description": "Perplex research into publishing packages",
+  "main": "index.js",
+  "repository": "mikeeromeo/npm-test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Romeo",
+  "license": "MIT"
 }
