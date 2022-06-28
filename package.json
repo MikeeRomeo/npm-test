@@ -1,6 +1,6 @@
 {
   "name": "@mikeromeo/npm-test",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Perplex research into publishing packages",
   "main": "index.js",
   "repository": "mikeeromeo/npm-test",
