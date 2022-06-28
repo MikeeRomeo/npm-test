@@ -8,19 +8,13 @@ Testing testing
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @mikeromeo/npm-test
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const testAlert = require("@mikeromeo/npm-test");
 
-tiny("So much space!");
+testAlert("Here is your message");
 //=> "Somuchspace!"
-
-tiny(1337);
-//=> Uncaught TypeError: Tiny wants a string!
-//    at tiny (<anonymous>:2:41)
-//    at <anonymous>:1:1
-```
