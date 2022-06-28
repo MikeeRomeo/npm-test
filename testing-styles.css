@@ -1,0 +1,7 @@
+body{
+    background: red;
+}
+
+.hide-elem{
+    opacity: 0;
+}
